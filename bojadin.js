@@ -13,7 +13,7 @@ window.onload = function() {
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/HSV-RGB-comparison.svg/300px-HSV-RGB-comparison.svg.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hsl-and-hsv.svg/300px-Hsl-and-hsv.svg.png"
     ];
-    //HSL to RGB function by Luke McClean (Stackoverflow)
+    
     function hslToRgb(h, s, l) {
         var r, g, b;
 
